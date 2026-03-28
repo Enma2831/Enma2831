@@ -1,4 +1,4 @@
-# 👨‍💻 Santos Enmanuel Manosalva Aceros
+# Santos Enmanuel Manosalva Aceros
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:d4a017&height=220&section=header&text=Santos%20Enmanuel%20Manosalva%20Aceros&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Infraestructura%20TI%20%7C%20AI%20Builder&descAlignY=58" alt="Header" />
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Focus-Productos%20reales-D4A017?style=for-the-badge&logoColor=black" alt="Focus" />
 </p>
 
-## 🧠 Perfil
+## Perfil
 
 Desarrollador enfocado en construir software que se vea bien, funcione bien y resuelva problemas reales.
 
@@ -33,7 +33,7 @@ Mi enfoque es práctico: menos teoría vacía y más productos funcionales, mant
 
 ---
 
-## ✨ Proyecto destacado
+## Proyecto destacado
 
 ### Landing page para abogado penalista
 
@@ -58,7 +58,7 @@ Landing visual de tono premium, pensada para transmitir autoridad, confianza y e
 
 ---
 
-## ⚙️ Lo que construyo
+## Lo que construyo
 
 | Área | Enfoque |
 | --- | --- |
@@ -69,7 +69,7 @@ Landing visual de tono premium, pensada para transmitir autoridad, confianza y e
 
 ---
 
-## 🚀 Proyectos que definen mi perfil
+## Proyectos que definen mi perfil
 
 ### personajeia
 
@@ -85,7 +85,7 @@ Proyecto centrado en generación de contenido automatizado con foco en eficienci
 
 ---
 
-## 🛠️ Stack tecnológico
+## Stack tecnológico
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,mongodb,aws,git,github,html,css" alt="Stack" />
@@ -93,7 +93,7 @@ Proyecto centrado en generación de contenido automatizado con foco en eficienci
 
 ---
 
-## 📊 Actividad y métricas
+## Actividad y métricas
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Enma2831&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
@@ -110,7 +110,7 @@ Proyecto centrado en generación de contenido automatizado con foco en eficienci
 
 ---
 
-## 💼 Experiencia real
+## Experiencia real
 
 ### PROSALUD UROGÉNICA S.A.
 
@@ -130,7 +130,7 @@ Proyecto centrado en generación de contenido automatizado con foco en eficienci
 
 ---
 
-## 🎓 Formación
+## Formación
 
 * Ingeniería de Sistemas e Informática en curso
 * Universidad Pontificia Bolivariana
@@ -140,7 +140,7 @@ Proyecto centrado en generación de contenido automatizado con foco en eficienci
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 * Correo: [manosalvaaceros@gmail.com](mailto:manosalvaaceros@gmail.com)
 * GitHub: [github.com/Enma2831](https://github.com/Enma2831)
