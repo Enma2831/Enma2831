@@ -1,85 +1,101 @@
 # 👨‍💻 Santos Enmanuel Manosalva Aceros
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Fullstack+Developer;Systems+Engineer+in+progress;AI+%26+Data+Builder;Scraping+%7C+Backend+%7C+Cloud;Building+real+products+with+impact" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:d4a017&height=220&section=header&text=Santos%20Enmanuel%20Manosalva%20Aceros&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Infraestructura%20TI%20%7C%20AI%20Builder&descAlignY=58" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=180&section=header&text=Welcome%20to%20my%20world&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2600&pause=900&color=D4A017&center=true&vCenter=true&width=980&lines=Construyendo+productos+reales+con+criterio+t%C3%A9cnico;Frontend%2C+backend%2C+cloud+y+automatizaci%C3%B3n;Interfaces+profesionales+con+enfoque+en+impacto" alt="Typing animation" />
 </p>
 
----
+<p align="center">
+  <a href="mailto:manosalvaaceros@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Enma2831">
+    <img src="https://img.shields.io/badge/GitHub-Enma2831-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Productos%20reales-D4A017?style=for-the-badge&logoColor=black" alt="Focus" />
+</p>
 
-## 🧠 Quién soy
+## 🧠 Perfil
 
-No soy solo otro estudiante de ingeniería.
-Soy alguien que ya está construyendo cosas reales.
+Desarrollador enfocado en construir software que se vea bien, funcione bien y resuelva problemas reales.
 
-Actualmente trabajo en proyectos donde combino:
+Trabajo en la intersección entre:
 
 * desarrollo fullstack
 * infraestructura TI
-* scraping y análisis de datos
-* inteligencia artificial
+* automatización y scraping
+* integración de inteligencia artificial
 
-Mi enfoque no es aprender por aprender, sino **crear soluciones que funcionen en el mundo real**.
+Mi enfoque es práctico: menos teoría vacía y más productos funcionales, mantenibles y listos para uso real.
 
 ---
 
-## ⚙️ Lo que hago (y en lo que soy bueno)
+## ✨ Proyecto destacado
 
-* 🧩 Construcción de sistemas backend y frontend funcionales
-* 🌐 Configuración de infraestructura (FTPS, DHCP, Proxy, correo)
-* 🤖 Integración de IA en productos reales
-* 📊 Scraping y procesamiento de datos
-* ☁️ Uso de tecnologías cloud y despliegue
+### Landing page para abogado penalista
+
+<p align="center">
+  <a href="https://github.com/Enma2831/Enma2831">
+    <img src="https://raw.githubusercontent.com/Enma2831/Enma2831/main/assets/perfilpagina.png" alt="Vista previa de la landing page para abogado penalista" width="96%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Enma2831/Enma2831">
+    <img src="https://img.shields.io/badge/Repositorio-Ver%20proyecto-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio" />
+  </a>
+  <a href="https://raw.githubusercontent.com/Enma2831/Enma2831/main/assets/perfilpagina.png">
+    <img src="https://img.shields.io/badge/Imagen-Ruta%20Git-0A66C2?style=for-the-badge&logo=icloud&logoColor=white" alt="Ruta Git" />
+  </a>
+</p>
+
+Landing visual de tono premium, pensada para transmitir autoridad, confianza y especialización desde el primer vistazo.
+
+* dirección visual sobria con paleta negro y dorado
+* hero editorial con fotografía profesional y jerarquía fuerte
+* mensaje orientado a credibilidad, experiencia y conversión
+* presentación limpia, moderna y lista para portafolio o cliente real
+
+**Ruta Git de la imagen**
+
+`https://raw.githubusercontent.com/Enma2831/Enma2831/main/assets/perfilpagina.png`
+
+---
+
+## ⚙️ Lo que construyo
+
+| Área | Enfoque |
+| --- | --- |
+| Fullstack | Interfaces modernas, APIs, lógica de negocio y despliegue |
+| Infraestructura | FTPS, DHCP, proxy, correo y servicios internos |
+| IA aplicada | Automatización, asistentes, generación de contenido y flujos inteligentes |
+| Datos | Scraping, procesamiento y organización para productos útiles |
 
 ---
 
 ## 🚀 Proyectos que definen mi perfil
 
-### 🤖 personajeia
+### personajeia
 
-Un proyecto donde combiné IA + creatividad + desarrollo.
+Sistema local donde combiné IA, voz, narrativa y automatización para generar personajes y contenido audiovisual.
 
-Aplicación local capaz de:
+### IQScore
 
-* generar personajes con inteligencia artificial
-* narrar historias con voz
-* integrar expresiones faciales
-* exportar contenido en formato video (9:16)
+Trabajo orientado a análisis de datos deportivos con scraping, arquitectura escalable e integración con tecnologías modernas.
 
-👉 Esto no es un CRUD.
-👉 Es un sistema completo con lógica, procesamiento y automatización.
+### opuscopy
+
+Proyecto centrado en generación de contenido automatizado con foco en eficiencia y velocidad de producción.
 
 ---
 
-### 📊 IQScore (trabajo real)
-
-Proyecto enfocado en análisis de datos deportivos.
-
-* scraping de información
-* arquitectura escalable
-* uso de React, TypeScript, MongoDB y AWS
-* integración con modelos tipo BERT
-
-👉 Aquí es donde se nota el paso de estudiante → desarrollador real.
-
----
-
-### ✍️ opuscopy
-
-Sistema orientado a generación de contenido automatizado.
-
-* construido con TypeScript
-* enfocado en eficiencia y automatización
-
----
-
-## 🛠️ Stack Tecnológico
+## 🛠️ Stack tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,mongodb,aws,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,mongodb,aws,git,github,html,css" alt="Stack" />
 </p>
 
 ---
@@ -87,37 +103,35 @@ Sistema orientado a generación de contenido automatizado.
 ## 📊 Actividad y métricas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Enma2831&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enma2831&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Enma2831&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enma2831&layout=compact&theme=tokyonight&hide_border=true" alt="Top langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Enma2831&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Enma2831&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enma2831&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enma2831&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
 </p>
 
 ---
 
 ## 💼 Experiencia real
 
-### 🏥 PROSALUD UROGÉNICA S.A.
+### PROSALUD UROGÉNICA S.A.
 
-**2024 – Presente**
+**2024 - Presente**
 
-* Administración de servicios críticos (FTPS, DHCP, Proxy, correo)
-* Desarrollo de soluciones internas (frontend + backend)
-* Implementación de infraestructura estable y documentada
+* administración de servicios críticos
+* desarrollo de soluciones internas frontend y backend
+* infraestructura estable, funcional y documentada
 
----
+### IQSCORE
 
-### 📊 IQSCORE
+**2024 - Presente**
 
-**2024 – Presente**
-
-* Desarrollo de arquitectura escalable
+* desarrollo de arquitectura escalable
 * scraping de datos deportivos
 * construcción de módulos, documentación y despliegue
 
@@ -125,35 +139,26 @@ Sistema orientado a generación de contenido automatizado.
 
 ## 🎓 Formación
 
-🎓 Ingeniería de Sistemas e Informática (en curso)
-Universidad Pontificia Bolivariana
-
-📜 Oracle Next Education - Frontend
-📜 SENA - Programación
-📜 SENA - Desarrollo Android
-
----
-
-## 🧠 Mentalidad
-
-* No me interesa hacer proyectos de tutorial
-* Me interesa resolver problemas reales
-* Me adapto rápido a nuevas tecnologías
-* Trabajo bien en equipo pero también ejecuto solo
+* Ingeniería de Sistemas e Informática en curso
+* Universidad Pontificia Bolivariana
+* Oracle Next Education - Frontend
+* SENA - Programación
+* SENA - Desarrollo Android
 
 ---
 
 ## 📫 Contacto
 
-📧 [manosalvaaceros@gmail.com](mailto:manosalvaaceros@gmail.com)
-💻 github.com/Enma2831
+* Correo: [manosalvaaceros@gmail.com](mailto:manosalvaaceros@gmail.com)
+* GitHub: [github.com/Enma2831](https://github.com/Enma2831)
+* Repositorio: [github.com/Enma2831/Enma2831](https://github.com/Enma2831/Enma2831)
 
 ---
 
 <p align="center">
-🔥 No estoy aprendiendo a programar. Estoy construyendo sistemas.
+  <strong>Construyo sistemas, interfaces y productos que se pueden mostrar con orgullo.</strong>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4a017,100:0d1117&height=120&section=footer" alt="Footer" />
 </p>
