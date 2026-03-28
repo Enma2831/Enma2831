@@ -47,9 +47,6 @@ Mi enfoque es práctico: menos teoría vacía y más productos funcionales, mant
   <a href="https://github.com/Enma2831/Enma2831">
     <img src="https://img.shields.io/badge/Repositorio-Ver%20proyecto-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio" />
   </a>
-  <a href="https://raw.githubusercontent.com/Enma2831/Enma2831/main/assets/perfilpagina.png">
-    <img src="https://img.shields.io/badge/Imagen-Ruta%20Git-0A66C2?style=for-the-badge&logo=icloud&logoColor=white" alt="Ruta Git" />
-  </a>
 </p>
 
 Landing visual de tono premium, pensada para transmitir autoridad, confianza y especialización desde el primer vistazo.
@@ -58,10 +55,6 @@ Landing visual de tono premium, pensada para transmitir autoridad, confianza y e
 * hero editorial con fotografía profesional y jerarquía fuerte
 * mensaje orientado a credibilidad, experiencia y conversión
 * presentación limpia, moderna y lista para portafolio o cliente real
-
-**Ruta Git de la imagen**
-
-`https://raw.githubusercontent.com/Enma2831/Enma2831/main/assets/perfilpagina.png`
 
 ---
 
